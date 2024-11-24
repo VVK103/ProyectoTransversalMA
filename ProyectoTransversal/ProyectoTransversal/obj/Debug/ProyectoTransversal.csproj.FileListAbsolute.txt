@@ -1,0 +1,35 @@
+C:\Users\CC1_PC41\Documents\SharpDevelop Projects\ProyectoTransversal\ProyectoTransversal\bin\Debug\ProyectoTransversal.exe
+C:\Users\CC1_PC41\Documents\SharpDevelop Projects\ProyectoTransversal\ProyectoTransversal\bin\Debug\ProyectoTransversal.pdb
+C:\Users\CC1_PC41\Documents\SharpDevelop Projects\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC41\Documents\SharpDevelop Projects\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.MainForm.resources
+C:\Users\CC1_PC41\Documents\SharpDevelop Projects\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.csproj.GenerateResource.Cache
+C:\Users\CC1_PC41\Documents\SharpDevelop Projects\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.exe
+C:\Users\CC1_PC41\Documents\SharpDevelop Projects\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.pdb
+C:\Users\CC1_PC41\Documents\SharpDevelop Projects\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.Dimenciones.resources
+C:\Users\CC1_PC41\Documents\SharpDevelop Projects\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.Seleccion1.resources
+C:\Users\CC1_PC41\Documents\SharpDevelop Projects\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.Precios.resources
+C:\Users\CC1_PC41\Documents\SharpDevelop Projects\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.Seleccion2.resources
+C:\Users\CC1_PC41\Downloads\ProyectoTransversal\ProyectoTransversal\bin\Debug\ProyectoTransversal.exe
+C:\Users\CC1_PC41\Downloads\ProyectoTransversal\ProyectoTransversal\bin\Debug\ProyectoTransversal.pdb
+C:\Users\CC1_PC41\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC41\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.Dimenciones.resources
+C:\Users\CC1_PC41\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.Precios.resources
+C:\Users\CC1_PC41\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.Seleccion1.resources
+C:\Users\CC1_PC41\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.Seleccion2.resources
+C:\Users\CC1_PC41\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.csproj.GenerateResource.Cache
+C:\Users\CC1_PC41\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.exe
+C:\Users\CC1_PC41\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.pdb
+C:\Users\CC1_PC41\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.MainForm.resources
+C:\Users\CC1_PC41\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.Total.resources
+C:\Users\USUARIO\Downloads\ProyectoTransversal\ProyectoTransversal\bin\Debug\ProyectoTransversal.exe
+C:\Users\USUARIO\Downloads\ProyectoTransversal\ProyectoTransversal\bin\Debug\ProyectoTransversal.pdb
+C:\Users\USUARIO\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.Dimenciones.resources
+C:\Users\USUARIO\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.Precios.resources
+C:\Users\USUARIO\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.Seleccion1.resources
+C:\Users\USUARIO\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.Seleccion2.resources
+C:\Users\USUARIO\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.Total.resources
+C:\Users\USUARIO\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.exe
+C:\Users\USUARIO\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\ProyectoTransversal.pdb
+C:\Users\USUARIO\Downloads\ProyectoTransversal\ProyectoTransversal\obj\Debug\DatosCompartidos.resources
